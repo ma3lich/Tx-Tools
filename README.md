@@ -33,7 +33,3 @@ Tx Tools est un script bash conçu pour Linux qui automatise diverses tâches co
 
 Pour obtenir de l'aide, envoyez un email à talaighiltoufik@outlook.fr ou contactez moi sur discord.
 
-## Authors
-
-- [@ma3lich](https://www.github.com/ma3lich)
-
