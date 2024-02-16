@@ -26,7 +26,7 @@ Tx Tools est un script bash conçu pour Linux qui automatise diverses tâches co
 ## Lancement
 
 ```bash
-./script.sh
+  ./script.sh
 ```
     
 ## Support
